@@ -20,7 +20,7 @@ sudo pip2 install pyTelegramBotAPI
 Finally clone the repo
 
 ```
-git clone https://github.com/amirPycode/zekrshomar
+git clone https://github.com/amirPycode/userinfobot
 ```
 
 # Running the Bot
