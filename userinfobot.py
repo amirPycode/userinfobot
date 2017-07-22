@@ -10,7 +10,7 @@ from telebot import types
 import sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
-bot = telebot.TeleBot("364319309:AAFh0wQu74WHyrD7pYuHtrnlyA4X2DbXSdI")
+bot = telebot.TeleBot("Token")
 print("\n\n\t\tBot runed;)")
 @bot.message_handler(content_types=['text'])
 def user_info(m):
